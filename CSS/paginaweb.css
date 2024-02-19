@@ -1,7 +1,7 @@
 body {
     width:80%;
     font-size: 14px;
-    font-family: helvica;
+    font-family: Arial, Helvetica, sans-serif;
     margin: auto;
 }
 nav {
@@ -43,11 +43,11 @@ aside .panel{
 margin: 0px;
 background: pink;
 border: solid 1px #edecec;
-font-family: Arial;
+font-family: Arial, Helvetica, sans-serif;
 font-size: 12px;
 width: 100%;
 }
-aside .contenedor{
+aside contenedor{
     padding: 10px;
 }
 aside .panel .contenedor h1 {
@@ -86,7 +86,7 @@ section .articulo img{
     margin-right: 20px;
 }
 section .articulo h1{
-    font-family: Arial;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     font-size: 16px;
     text-transform: uppercase;
